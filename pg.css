@@ -1,0 +1,29 @@
+.sty {
+    font-family: 'PT Sans Caption', sans-serif;
+    font-weight: 700;
+    font-size: xx-large;
+    
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    background-color: #d3e3fd;
+    padding: 20px;
+    width: 900px;
+    height: 500px;
+    border-radius: 25px;
+    color: #28282B;
+  }
+
+  .a {
+    color: lightslategray;
+  }
+  
+  .a:hover {
+    color: #a8c7fa;
+  }
+  
+  
+  
+  
+   

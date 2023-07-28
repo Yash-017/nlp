@@ -1,0 +1,20 @@
+body {
+  --twitter-color: #50b7f5;
+  --twitter-background: #e6ecf0;
+}
+
+.Appp {
+  display: flex;
+  height: 100vh;
+  max-width: 1300px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0 10px;
+}
+
+.container{
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0 30px;
+  color: gray;
+}
